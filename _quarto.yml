@@ -1,0 +1,15 @@
+website:
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+          - home.qmd
+          - about.qmd
+          - home.qmd
+      - section: "Layout"
+        contents:
+          - home.qmd
+          - home.qmd
+          - home.qmd
