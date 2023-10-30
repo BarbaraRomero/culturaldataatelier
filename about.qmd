@@ -1,9 +1,5 @@
 ---
 title: "About"
-format:
-  html:
-    code-fold: true
-jupyter: python3
 ---
 
-Welcome to our about page!
+Welcome to our about page!!

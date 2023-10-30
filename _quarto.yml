@@ -9,11 +9,11 @@ website:
       - section: "Basics"
         contents:
           - home.qmd
-          - abput.qmd
+          - about.qmd
       - section: "Layout"
         contents:
           - home.qmd
-          - abput.qmd
+          - about.qmd
 
 format:
   html:
