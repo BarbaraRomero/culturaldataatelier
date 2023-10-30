@@ -1,12 +1,12 @@
 ---
-title: "Quarto Basics"
+title: "Cultural Data Atelier"
 format:
   html:
     code-fold: true
 jupyter: python3
 ---
 
-For a demonstration of a line plot on a polar axis, see @fig-polar.
+Welcome to our workshop page @fig-polar.
 
 ```{python}
 #| label: fig-polar
