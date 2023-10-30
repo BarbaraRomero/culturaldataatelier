@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Welcome to our about page!!
+Welcome to our about page!! :)
