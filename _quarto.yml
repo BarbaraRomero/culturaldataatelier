@@ -8,7 +8,7 @@ website:
     contents:
       - section: "Basics"
         contents:
-          - home.qmd
+          - index.qmd
           - about.qmd
       - section: "Layout"
         contents:
