@@ -49,5 +49,4 @@ Diseño y desarrollo: Bárbara Romero Ferrón (Digital Humanities Specialist –
 * Análisis cuantitativo y visualización
 * Presentación de los estudiantes
 
-#### Licencia
 
