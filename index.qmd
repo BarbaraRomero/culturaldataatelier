@@ -1,5 +1,53 @@
 ---
-title: "Cultural Data Atelier"
+title: "Introducción" 
 ---
 
-Welcome to our workshop page!!!
+## Atelier de datos culturales: fabricación, diseño, discusión y análisis
+
+
+#### Información
+Este taller, que se divide en dos días, tiene como propósito brindar una introducción al concepto de datos culturales y su análisis. El taller se articulará en torno a discusiones críticas en las que examinaremos conjuntos de datos como objetos históricos y, además, aprenderemos a fabricar nuestros propios conjuntos de datos, diseñarlos y analizarlos.  
+
+#### Cuándo
+14 y 16 de noviembre de 2023
+
+**Horario:** 15:30-19:00 (descanso de media hora). 
+
+#### Destinado a
+Estudiantes de Humanidades de cualquier ámbito disciplinar. No se requiere experiencia previa. 
+
+**Número máximo:** 15 participantes. 
+
+**[Regístrate](https://forms.gle/Q9LW9DAptryJZLHT6)**
+
+#### Organización
+Coordinación científica: Nuria Rodríguez Ortega
+
+Diseño y desarrollo: Bárbara Romero Ferrón (Digital Humanities Specialist – Universidad de Utrecht) y María Ortiz Tello (Investigadora posdoctoral UMA). 
+
+#### Índice
+
+
+**Día 1 - Fabricación de datos**
+
+* Introducción
+* Qué es un dato
+* Qué es un *dataset*
+* Diseccionando *datasets*
+* Cómo estructurar datos
+* Cómo normalizarlos
+
+**Día 2 - Análisis y visualización**
+
+* Dónde recolectar datos culturales
+* Tipos de metodologías computacionales
+  + Estilometría
+  + Visión por computadora
+  + Análisis del lenguaje
+  + Análisis de redes
+  + Análisis estadísticos / cuantitativos
+* Análisis cuantitativo y visualización
+* Presentación de los estudiantes
+
+#### Licencia
+

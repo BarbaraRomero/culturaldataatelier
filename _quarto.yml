@@ -5,17 +5,23 @@ project:
 website:
   sidebar:
     style: "docked"
+    title: "Atelier de Datos Culturales"
     search: true
     contents:
-      - section: "Basics"
+      - index.qmd
+      - section: "Día 1 - Fabricación de datos"
         contents:
-          - index.qmd
-          - about.qmd
-      - section: "Layout"
+          - Día_uno.qmd
+          - Actividad_1.1.qmd
+          - Actividad_1.2.qmd
+          
+      - section: "Día 2 - Análisis y visualización"
         contents:
-          - home.qmd
-          - about.qmd
-
+          - Día_dos.qmd
+          - Actividad_2.1.qmd
+          - Actividad_2.2.qmd
+      - section: contacto.qmd
+    
 format:
   html:
     theme: cosmo
