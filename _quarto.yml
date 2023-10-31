@@ -20,7 +20,7 @@ website:
           - Día_dos.qmd
           - Actividad_2.1.qmd
           - Actividad_2.2.qmd
-      - section: contacto.qmd
+      - contacto.qmd
     
 format:
   html:
