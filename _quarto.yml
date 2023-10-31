@@ -12,14 +12,14 @@ website:
       - section: "Día 1 - Fabricación de datos"
         contents:
           - Día_uno.qmd
-          - Actividad_1.1.qmd
-          - Actividad_1.2.qmd
+          - Actividad_1_1.qmd
+          - Actividad_1_2.qmd
           
       - section: "Día 2 - Análisis y visualización"
         contents:
           - Día_dos.qmd
-          - Actividad_2.1.qmd
-          - Actividad_2.2.qmd
+          - Actividad_2_1.qmd
+          - Actividad_2_2.qmd
       - contacto.qmd
     
 format:
