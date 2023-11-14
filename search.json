@@ -14,13 +14,6 @@
     "text": "Este taller, que se divide en dos días, tiene como propósito brindar una introducción al concepto de datos culturales y su análisis. El taller se articulará en torno a discusiones críticas en las que examinaremos conjuntos de datos como objetos históricos y, además, aprenderemos a fabricar nuestros propios conjuntos de datos, diseñarlos y analizarlos.\n\n\n\n14 y 16 de noviembre de 2023\nHorario: 15:30-19:00 (descanso de media hora).\n\n\n\nEstudiantes de Humanidades de cualquier ámbito disciplinar. No se requiere experiencia previa.\nNúmero máximo: 15 participantes.\nRegístrate\n\n\n\nCoordinación científica: Nuria Rodríguez Ortega\nDiseño y desarrollo: Bárbara Romero Ferrón (Digital Humanities Specialist – Universidad de Utrecht) y María Ortiz Tello (Investigadora posdoctoral UMA).\n\n\n\nDía 1 - Fabricación de datos\n\nIntroducción\nQué es un dato\nQué es un dataset\nDiseccionando datasets\nCómo estructurar datos\nCómo normalizarlos\n\nDía 2 - Análisis y visualización\n\nDónde recolectar datos culturales\nTipos de metodologías computacionales\n\nEstilometría\nVisión por computadora\nAnálisis del lenguaje\nAnálisis de redes\nAnálisis estadísticos / cuantitativos\n\nAnálisis cuantitativo y visualización\nPresentación de los estudiantes"
   },
   {
-    "objectID": "Día_dos.html",
-    "href": "Día_dos.html",
-    "title": "Intro",
-    "section": "",
-    "text": "Dia dos"
-  },
-  {
     "objectID": "contacto.html",
     "href": "contacto.html",
     "title": "Contacto",
@@ -30,8 +23,8 @@
   {
     "objectID": "Día_uno.html",
     "href": "Día_uno.html",
-    "title": "Intro",
+    "title": "Materiales",
     "section": "",
-    "text": "Dia Uno"
+    "text": "En este primer día vamos a explorar como fabricar, estructurar y normalizar nuestro propio dataset. También, analizaremos otros datasets como si fuesen objetos históricos.\n\nPresentación\nAl final del día podrás acceder a la presentación aquí: link\n\n\nActividad\nCada participante va a seleccionar un catálogo de cada carpeta y va a crear su propio dataset. El dataset, con información de tres catálogos (a elegir) tiene que tener de 20 a 25 líneas. Se ha de enviar con un texto describiendo qué campos se han seleccionado, por qué esa estructura, y cualquier otra información relevante para entender el dataset.\nCatálogos: https://drive.google.com/drive/folders/1aSknrN5f_VIW75C4jNQ6RPSOG916tK5w?usp=drive_link\nPara enviar tu actividad, crea una carpeta con tu nombre y la primera letra de tu apellido (Barbara_R) en esta carpeta de drive: https://drive.google.com/drive/folders/1yL7FFVgyReMun1pm3RnD0dfVcq7ZPhFV?usp=drive_link"
   }
 ]
